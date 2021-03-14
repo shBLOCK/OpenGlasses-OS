@@ -1,0 +1,1 @@
+--The base class for all the advanced widgets (button, slider, graph...)
