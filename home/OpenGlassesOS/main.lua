@@ -1,4 +1,4 @@
---Main script for the OS
+--Main file for the OS
 package.path = package.path .. ";/home/OpenGlassesOS/lib/?.lua;/home/OpenGlassesOS/lib/?/init.lua;/home/OpenGlassesOS/?.lua"
 
 local event = require("event")
