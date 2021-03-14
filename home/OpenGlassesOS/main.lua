@@ -3,7 +3,6 @@ package.path = package.path .. ";/home/OpenGlassesOS/lib/?.lua;/home/OpenGlasses
 
 local event = require("event")
 local thread = require("thread")
---local widget = require("widget")
 
 function event.onError(message)
   print(message)
