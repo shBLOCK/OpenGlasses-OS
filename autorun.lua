@@ -1,0 +1,1 @@
+os.execute("home/OpenGlassesOS/removeAll.lua")
